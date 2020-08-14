@@ -40,7 +40,7 @@
     "koa-unless": "0.0.1",
     "koa-validate": "~0.2.11",
     "lodash": "~4.0.0",
-    "moment": "~2.11.1",
+    "moment": "~2.27.0",
     "mongoose": "~4.3.5",
     "mongoose-paginate": "~5.0.0",
     "streaming-json-stringify": "~3.1.0",
