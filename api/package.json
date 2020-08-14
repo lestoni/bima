@@ -27,7 +27,7 @@
   "dependencies": {
     "bcrypt": "~0.8.5",
     "co": "~4.6.0",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "emquery": "~1.0.2",
     "koa": "~1.1.2",
     "koa-body": "~1.4.0",
